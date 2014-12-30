@@ -1,0 +1,12 @@
+{
+  "name" : "nomos cloud api lib",
+  "version" : "1.0",
+  "require" : {
+    "wisembly/elephant.io" : "~3.0",
+    "php-curl-class/php-curl-class" : "~2.1"
+  },
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
