@@ -8,4 +8,4 @@ There are 2 examples
 - example_realtime.php for Realtime functionality
 
 API Documentation:
-http://nomos-system.com/l.php?id=cloudapidocs
+see http://nomos-system.com/l.php?id=cloudapidocs
